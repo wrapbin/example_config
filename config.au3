@@ -1,2 +1,2 @@
-;master au3 config
+;release au3 config
 ;
