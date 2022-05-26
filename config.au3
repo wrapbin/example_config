@@ -1,2 +1,2 @@
-;master au3 config
+;develop au3 config
 ;
